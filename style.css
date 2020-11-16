@@ -1,0 +1,16 @@
+/* Website Styles */
+
+* {
+  font-size: 100%
+}
+
+body {
+  background-color: lightblue;
+  color: Black;
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+h1 {
+  color: Black;
+}
