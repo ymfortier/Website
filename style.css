@@ -1,16 +1,26 @@
 /* Website Styles */
-
-* {
-  font-size: 100%
-}
-
+* {  font-size: 100%;}
+header h1 {text-align: center;}
 body {
-  background-color: lightblue;
-  color: Black;
+  background-color:lightblue;  color: Black;
   font-family: Helvetica;
   font-size: 14px;
 }
+h1 {  color: Black;
+      font-size: 36px;
+      text-align: left;}
 
-h1 {
-  color: Black;
-}
+h2 {  font-size: 24px;}
+
+h3 {  font-size: 18px;}
+
+h1, h2, h3 {
+  font-weight: 900;
+  font-weight: bold;
+  font-style: italic;}
+
+{line-height: 2;}
+
+a {color: red;
+  text-decoration: none;}
+a:hover {text-decoration: underline;}
