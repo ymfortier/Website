@@ -1,11 +1,32 @@
 /* Website Styles */
-* {  font-size: 100%;}
-header h1 {text-align: center;}
+* {
+  font-size: 100%;
+  margin:0;
+  line-height: 1;
+  box-sizing: border-box;
+  /* border: 1px solid blue; */
+}
+
+header h1 {text-align: center;
+border: 10px solid blue;}
+
+header {
+  border-bottom: 5px solid grey;
+}
+
 body {
-  background-color:lightblue;  color: Black;
+  background-color:lightblue;
+  color: black;
   font-family: Helvetica;
   font-size: 14px;
+  }
+
+header,
+section,
+footer {
+  padding; 30px;
 }
+
 h1 {  color: Black;
       font-size: 36px;
       text-align: left;}
@@ -19,8 +40,22 @@ h1, h2, h3 {
   font-weight: bold;
   font-style: italic;}
 
-{line-height: 2;}
+h1, h2, h3 {
+  margin-botton: 20px;
+}
+
+p {
+margin: 15px 0;
+}
+
+ul, ol {
+  margin: 15 px 0;
+}
 
 a {color: red;
   text-decoration: none;}
 a:hover {text-decoration: underline;}
+
+img {
+  height: 300px;
+}
