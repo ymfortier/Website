@@ -19,9 +19,7 @@ body {
 
   h1 {
     font-size: 36px;
-        }
-  h1 {
-      text-align: left;
+    text-align: left;
         }
   h2 {
     font-size: 24px;
@@ -74,7 +72,7 @@ a:hover {
 
 * {
   font-size: 100%;
-  margin:0;
+  margin: 0;
   line-height: 1;
   box-sizing: border-box;
   /* border: 1px solid red; */
@@ -93,7 +91,7 @@ img{
 }
 .banner: {
   height: 350px;
-  background image: url(C:\Users\User\Documents\Code\Website\Images\Mount-Robson.jpg);
+  background image: url(C:\Users\User\Documents\Code\Website\Images\Mount-Robson.jpg); 
   background-size: cover
   background-position: center;
 }
