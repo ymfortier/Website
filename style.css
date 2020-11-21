@@ -4,12 +4,13 @@
 }
 
 body {
-  background-image: url (Images/seigaiha.png);
+/*background-image: url(https://images.template.net/wp-content/uploads/2016/01/Free-Vector-Background-Pattern1.jpg); */
   background-repeat: no-repeat;
   background-color: lightblue;
   color: black;
   font-family: Helvetica;
   font-size: 14px
+  margin: 50px;
   }
 
   header h1 {
@@ -46,7 +47,7 @@ footer {
 
 section {
   border: 1px solid gainsboro;
-  background-color: white;
+  background-color: Palegoldenrod;
   margin: 30px;
   padding: 30px
 }
@@ -85,13 +86,16 @@ img{
   text-decoration: underline;
 }
 
-.container {
-  max-width: 1000px;
-  margin: 0 auto;
-}
 .banner: {
-  height: 350px;
-  background image: url(Images/Mount-Robson.jpg); 
-  background-size: cover
+  height: 50px;
+/*  background image: url(https://tse1.mm.bing.net/th?id=OIP.9pCOeadEIG10BxLljGiEcAHaBw&pid=Api&P=0&w=521&h=124); */
+  background-size: cover;
   background-position: center;
 }
+.container {
+max-width: 1000px;
+margin: 0 auto;
+}
+
+<body>
+-->
